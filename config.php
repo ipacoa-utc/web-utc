@@ -29,7 +29,7 @@ $WDATA->protocol = 'https';
 // 1. ROOT DIRECTION
 //=========================================================================
 
-$WDATA->path = $WDATA->protocol.'://'.$_SERVER['SERVER_NAME'].'/web_i/'; //ruta principal del sitio web
+$WDATA->path = $WDATA->protocol.'://'.$_SERVER['SERVER_NAME'].'/'; //ruta principal del sitio web
 
 //=========================================================================
 // 2. PATH's LOCATION
